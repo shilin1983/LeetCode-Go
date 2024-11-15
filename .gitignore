@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+.vscode/
+vendor/
+go.mod
+go.sum
+coverage.out
